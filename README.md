@@ -1,2 +1,2 @@
 # cloud_decision
-It consists of the developed at SLAC, Stanford
+It consists of the algorithm developed at SLAC, Stanford
